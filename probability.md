@@ -17,14 +17,15 @@ then event space for flipping a coin would be {{}, {H}, {T}, {H,T}}
 
 > note that {H,T} is an event, such that cooresponds to the event of all possible outcomes
 
-$$
+$latex
 \usepackage{relsize}
 \newcommand{\mathlarger}[1]{\mathlarger{\text{#1}}}
 
 \mathlarger{\epsilon}= \{ A : A \subseteq S \} 
 
 If $|S|$ is finite, then $|\mathlarger{\epsilon}| = 2^{|S|}$
-$$
+$latex
+---
 
 $$\mathlarger{\epsilon}= \{ A : A \subseteq S \} $$
 
