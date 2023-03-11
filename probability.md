@@ -17,10 +17,9 @@ then event space for flipping a coin would be {{}, {H}, {T}, {H,T}}
 
 > note that {H,T} is an event, such that cooresponds to the event of all possible outcomes
 
-$$
-\mathlarger{\epsilon}= \{ A : A \subseteq S \}
+$$\mathlarger{\epsilon}= \{ A : A \subseteq S \} $$
 
-If $|S|$ is finite, then |\mathlarger{\epsilon}| = 2^{|S|}$$
+If $$|S|$$ is finite, then $$|\mathlarger{\epsilon}| = 2^{|S|}$$
 
 
 ## Practice
