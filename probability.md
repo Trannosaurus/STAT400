@@ -17,16 +17,20 @@ then event space for flipping a coin would be {{}, {H}, {T}, {H,T}}
 
 > note that {H,T} is an event, such that cooresponds to the event of all possible outcomes
 
+$$
 $\mathlarger{\epsilon}= \{ A : A \subseteq S \}$
 
 If $|S|$ is finite, then $|\mathlarger{\epsilon}| = 2^{|S|}$
+$$
 
 
 ## Practice
 Experiment: Roll the 6-sided die 2 times
 
+$$
 $S = \{(Roll_1, Roll_2) : Roll_1, Roll_2 \in \{1,2,3,4,5,6\}\}$
 
 $|S| = 36$
 
 $|\mathlarger{\epsilon}| = 2^{36}$
+$$
