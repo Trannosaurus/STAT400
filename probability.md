@@ -25,6 +25,7 @@ $latex
 
 If $|S|$ is finite, then $|\mathlarger{\epsilon}| = 2^{|S|}$
 $latex
+
 ---
 
 $$\mathlarger{\epsilon}= \{ A : A \subseteq S \} $$
